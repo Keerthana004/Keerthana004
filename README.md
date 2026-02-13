@@ -1,7 +1,7 @@
 # 👩‍💻 Hi, I'm Keerthana S
 
 🎓 B.Tech Information Technology Student  
-📍 India  
+📍 Coimbatore  
 📧 keerthana.s0404@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/keerthana-shaktivel-9aa1532a4)  
 💻 [GitHub](https://github.com/Keerthana004)
@@ -61,8 +61,16 @@ Dec 2024 – Jan 2025
 
 - Worked on user interface and user experience design principles  
 - Designed intuitive layouts to improve user engagement  
-- Learned modern UI/UX tools and techniques  
+- Learned modern UI/UX tools and techniques
 
+### Java Developer Intern  
+Infosys Springboard Virtual Internship 6.0  
+(Duration: [60 days])
+
+- Completed a Java-based virtual internship program.
+- Worked on backend development using Java and Spring Boot.
+- Developed "EcoBasaarX – Carbon Footprint Aware Shopping Assistant".
+- Gained hands-on experience in building REST APIs and database integration.
 ---
 
 ## 🚀 Projects
@@ -92,6 +100,11 @@ A Java Spring Boot based web application that helps users make environmentally c
 - MySQL
 - HTML, CSS
 
+**Concepts Used:**
+- REST API
+- MVC Architecture
+- Backend development
+- Database connectivity
 ---
 
 ## 🎯 Career Goal
