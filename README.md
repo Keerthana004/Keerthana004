@@ -37,7 +37,7 @@ I enjoy learning step by step and building practical projects to improve my tech
 - MySQL (Basic Queries, CRUD Operations)
 
 ### 🔧 Tools & Platforms
-- Git  
+- Git
 - Figma (UI/UX Basics)  
 - IntelliJ IDEA
 - Visual Studio Code
@@ -65,7 +65,7 @@ Dec 2024 – Jan 2025
 
 ### Java Developer Intern  
 Infosys Springboard Virtual Internship 6.0  
-(Duration: [60 days])
+(Duration: 60 days)
 
 - Completed a Java-based virtual internship program.
 - Worked on backend development using Java and Spring Boot.
